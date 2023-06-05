@@ -9,12 +9,12 @@ This repository is the official implementation of the *Battle of the Backbones: 
 
 For each vision task, please refer to its respective repository for detailed documentation, source code, and further information:
 
-:star2: Image Classification: [bob-classification](link1)
+:star2: Image Classification: [BoB-Classification](link1)
 
-:star2: Object Detection and Segmentation: [bob-detection](link2)
+:star2: Object Detection and Segmentation: [BoB-Detection](link2)
 
-:star2: Out-of-Distribution Generalization: [bob-ood](link3)
+:star2: Out-of-Distribution Generalization: [BoB-OOD](link3)
 
-:star2: Image Retrieval: [bob-retrieval](link4)
+:star2: Image Retrieval: [BoB-Retrieval](link4)
 
 
