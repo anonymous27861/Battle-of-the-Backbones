@@ -11,10 +11,10 @@ For each vision task, please refer to its respective repository for detailed doc
 
 :star2: Image Classification: [BoB-Classification](https://github.com/anonymous27861/bob-classification)
 
-:star2: Object Detection and Segmentation: [BoB-Detection](link2)
+:star2: Object Detection and Segmentation: [BoB-Detection](https://github.com/anonymous27861/bob-detection)
 
-:star2: Out-of-Distribution Generalization: [BoB-OOD](link3)
+:star2: Out-of-Distribution Generalization: [BoB-OOD](https://github.com/anonymous27861/bob-ood)
 
-:star2: Image Retrieval: [BoB-Retrieval](link4)
+:star2: Image Retrieval: [BoB-Retrieval](https://github.com/anonymous27861/bob-retrieval)
 
 
