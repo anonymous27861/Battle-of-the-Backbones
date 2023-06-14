@@ -13,7 +13,9 @@ For each vision task, please refer to its respective repository for detailed doc
 
 :star2: Object Detection and Segmentation: [BoB-Detection](https://github.com/anonymous27861/bob-detection)
 
-:star2: Out-of-Distribution Generalization: [BoB-OOD](https://github.com/anonymous27861/bob-ood)
+:star2: Out-of-Distribution Classification: [BoB-OOD-Classification](https://github.com/anonymous27861/bob-ood-classification)
+
+:star2: Out-of-Distribution Detection: [BoB-OOD-Detection](https://github.com/anonymous27861/bob-ood-detection)
 
 :star2: Image Retrieval: [BoB-Retrieval](https://github.com/anonymous27861/bob-retrieval)
 
